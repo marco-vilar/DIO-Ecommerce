@@ -2,7 +2,7 @@
 
 ## Descrição do Problema
 
-Criaçã ode um esquema para um e-commerce
+Criação de um esquema para um e-commerce
 
 Narrativa - Produto
 
